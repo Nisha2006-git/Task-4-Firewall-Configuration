@@ -1,4 +1,4 @@
-# Task 4: Configure Firewall Rules
+# Configure Firewall Rules
 
 ## Objective
 To configure and test basic firewall rules to block and allow network traffic.
